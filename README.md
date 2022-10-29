@@ -1,8 +1,8 @@
 
-# vocabflashcardscraper v1.0
+# glosbevocabscraper v1.0
 
 
-Vocabflashcardscraper is a tool for quickly scraping translated definitions, audio files and example sentences for use with flashcard apps such as Anki.
+Glosbevocabscraper is a tool for quickly scraping translated definitions, audio files and example sentences for use with flashcard apps such as Anki.
 
 The tool takes an input text file consisting of a list of words in a target language, one per line. It then scrapes glosbe.com for available translations, word attributes (eg noun, gender), example sentences in both the target and alternative language, and audio files, before exporting the scraped data in a csv.
 
